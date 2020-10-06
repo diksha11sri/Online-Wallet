@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: onlinewallet
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lappy
+Implementation-Vendor-Id: org.com
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://spring.io/projects/spring-boot/onlinewalle
+ t
+Created-By: Maven Integration for Eclipse
+
